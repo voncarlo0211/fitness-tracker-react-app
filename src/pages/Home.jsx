@@ -8,7 +8,7 @@ const Home = () => {
       <Container>
         <div className="d-flex vh-100 align-items-center justify-content-center flex-column text-center">
           <h1 className="display-1 animate__animated animate__bounceInDown">
-            Mark Elking Fitness Tracker App
+            Fitness Tracker App
           </h1>
           <p className="lead animate__animated animate__bounceInDown mt-2">
             Welcome to our Fitness Tracker App! Whether you're a seasoned
